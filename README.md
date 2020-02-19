@@ -1,3 +1,3 @@
-#Queue_using_Classes
+#Queue-using-Classes
 
 this repository implement queue using classes.
